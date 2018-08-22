@@ -8,4 +8,4 @@ Our mapping projects consist in adding different type of features to OSM:
   * traffic lights
   * number of lanes
   
-For more information on our current mapping projects click [here](https://github.com/TelenavMapping/mapping-projects/issues).
+For more information on our current mapping projects click [here](https://github.com/TelenavMapping/US-mapping-projects/issues).
