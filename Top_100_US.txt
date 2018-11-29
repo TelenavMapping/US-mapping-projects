@@ -1,0 +1,102 @@
+1	Boston-Worcester-Providence-MA-RI-NH-CT
+2	New York-Newark-NY-NJ-CT-PA
+3	Philadelphia-Reading-Camden-PA-NJ-DE-MD
+4	Atlanta-Athens-Clarke County-Sandy Springs-GA
+5	Washington-Baltimore-Arlington-DC-MD-VA-WV-PA
+6	Chicago-Naperville-IL-IN-WI
+7	Dallas-Fort Worth-TX-OK
+8	Houston-The Woodlands-TX
+9	Miami-Fort Lauderdale-Port St. Lucie-FL
+10	Tampa-St. Petersburg-Clearwater-FL
+11	Los Angeles-Long Beach-CA
+12	Detroit-Warren-Ann Arbor-MI
+13	Charlotte-Concord-NC-SC
+14	Cleveland-Akron-Canton-OH
+15	Minneapolis-St. Paul-MN-WI
+16	Pittsburgh-New Castle-Weirton-PA-OH-WV
+17	Orlando-Deltona-Daytona Beach-FL
+18	St. Louis-St. Charles-Farmington-MO-IL
+19	Cincinnati-Wilmington-Maysville-OH-KY-IN
+20	Nashville-Davidson-Murfreesboro-TN
+21	Phoenix-Mesa-Scottsdale-AZ
+22	Indianapolis-Carmel-Muncie-IN
+23	San Jose-San Francisco-Oakland-CA
+24	San Diego-Carlsbad-CA
+25	San Antonio-New Braunfels-TX
+26	Jacksonville-St. Marys-Palatka-FL-GA
+27	Denver-Aurora-CO
+28	Raleigh-Durham-Chapel Hill-NC
+29	Seattle-Tacoma-WA
+30	Kansas City-Overland Park-Kansas City-MO-KS
+31	Columbus-Marion-Zanesville-OH
+32	Greensboro-Winston-Salem-High Point-NC
+33	Greenville-Spartanburg-Anderson-SC
+34	Milwaukee-Racine-Waukesha-WI
+35	Austin-Round Rock-TX
+36	Birmingham-Hoover-Talladega-AL
+37	Louisville/Jefferson County-Elizabethtown-Madison-KY-IN
+38	Memphis-Forrest City-TN-MS-AR
+39	Hartford-West Hartford-CT
+40	Salt Lake City-Provo-Orem-UT
+41	Portland-Vancouver-Salem-OR-WA
+42	Richmond-VA
+43	New Orleans-Metairie-Hammond-LA-MS
+44	Grand Rapids-Wyoming-Muskegon-MI
+45	Las Vegas-Henderson-NV-AZ
+46	Knoxville-Morristown-Sevierville-TN
+47	Sacramento-Roseville-CA
+48	Rochester-Batavia-Seneca Falls-NY
+49	Albany-Schenectady-NY
+50	Buffalo-Cheektowaga-NY
+51	Dayton-Springfield-Sidney-OH
+52	Virginia Beach-Norfolk-VA-NC
+53	Harrisburg-York-Lebanon-PA
+54	Oklahoma City-Shawnee-OK
+55	Cape Coral-Fort Myers-Naples-FL
+56	Tulsa-Muskogee-Bartlesville-OK
+57	Tucson-Nogales-AZ
+58	Albuquerque-Santa Fe-Las Vegas-NM
+59	El Paso-Las Cruces-TX-NM
+60	Fresno-Madera-CA
+61	Riverside--San Bernardino, CA
+62	Baltimore, MD
+63	Providence, RI--MA
+64	Hartford, CT
+65	Honolulu, HI
+66	Bridgeport--Stamford, CT--NY
+67	New Haven, CT
+68	Omaha, NE--IA
+69	Dayton, OH
+70	Allentown, PA--NJ
+71	Bakersfield, CA
+72	Oxnard, CA
+73	Worcester, MA--CT
+74	Grand Rapids, MI
+75	Baton Rouge, LA
+76	Columbia, SC
+77	McAllen, TX
+78	Akron, OH
+79	North Port--Port Charlotte, FL
+80	Springfield, MA--CT
+81	Little Rock, AR
+82	Poughkeepsie--Newburgh, NY--NJ
+83	Stockton, CA
+84	Toledo, OH--MI
+85	Charleston--North Charleston, SC
+86	Syracuse, NY
+87	Colorado Springs, CO
+88	Wichita, KS
+89	Boise City, ID
+90	Lakeland, FL
+91	Youngstown, OH--PA
+92	Madison, WI
+93	Des Moines, IA
+94	Scranton, PA
+95	Provo--Orem, UT
+96	Jackson, MS
+97	Palm Bay--Melbourne, FL
+98	Augusta-Richmond County, GA--SC
+99	Ogden--Layton, UT
+100	Chattanooga, TN--GA
+101	Lancaster, PA
+102	Modesto, CA
